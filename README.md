@@ -163,13 +163,6 @@ SHAP analysis was used to understand feature importance and to test whether fewe
 
 ![Final R2 Comparison](figures/final_model_r2_bar.png)
 
-### Actual vs Predicted SoC
-
-![Actual vs Predicted](figures/actual_vs_predicted_all_models.png)
-
-### Sorted Line Comparison
-
-![Sorted Line Comparison](figures/Sorted_line_comparison.png)
 
 ### All Models Actual vs Predicted
 
